@@ -1,0 +1,1 @@
+For this kata, use the solution from teh previous Kata you have completed (Module A5) and install and configure Coverlet to generate a code coverage report for the tests written there.
